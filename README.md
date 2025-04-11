@@ -8,7 +8,7 @@
 
 Welcome to my GitHub! 
 
-**I’m a PhD Candidate in Applied Mathematics at the University of Arizona, where I study drought trends in the Colorado River Basin using nonlinear methods and geospatial statistics.** 🌎➕🛰️
+**I’m a PhD Candidate in Applied Mathematics at the University of Arizona, where I study drought trends in the Colorado River Basin using nonlinear methods and geospatial statistics.** 🌎➕🛰️📉
 
 ### 🎯 What I Love 
 I enjoy solving complex problems -- whether its optimizing data workflows, making sense of messy data, or building reproducible data workflows. As I transition into industry, I am excited to apply my skills to tackle data-driven challenges across different fields. 
