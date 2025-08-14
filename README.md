@@ -2,7 +2,7 @@
 
 🚀 **Data Scientist | Applied Mathematician | Problem Solver** 
 
-😄 Pronouns: She/Her
+😄 Pronouns: She/Her/Ella
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?logo=LinkedIn)](https://www.linkedin.com/in/ppuentex) [![Website](https://img.shields.io/badge/Website-3f704d)](https://ppuentex.github.io/)
 
