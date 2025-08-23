@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Patricia!
 
-🚀 **Data Scientist | Applied Mathematician | Problem Solver** 
+🚀 **Data Scientist | Applied Math PhD | Hydrology & Geospatial Analytics** 
 
 😄 Pronouns: She/Her/Ella
 
@@ -8,10 +8,10 @@
 
 Welcome to my GitHub! 
 
-**I’m a PhD Candidate in Applied Mathematics at the University of Arizona, where I study drought trends in the Colorado River Basin using nonlinear methods and geospatial statistics.** 🌎➕🛰️📉
+**I recently graduated with my PhD in Applied Mathematics from the University of Arizona, where my research focused on drought trends in the Colorado River Basin using nonlinear methods and geospatial statistics.** 🌎➕🛰️📉
 
 ### 🎯 What I Love 
-I enjoy solving complex problems -- whether its optimizing data workflows, making sense of messy data, or building reproducible data workflows. As I transition into industry, I am excited to apply my skills to tackle data-driven challenges across different fields. 
+I enjoy solving complex problems — whether it’s optimizing data workflows, making sense of messy datasets, or building reproducible workflows. I’m excited to apply my background in data science, applied math, and hydrology to tackle data-driven environmental challenges. 
 
 ### 🌟Fun Facts
 - 📔 Notion Fanatic - I love designing productivity systems for note-taking and goal tracking.
