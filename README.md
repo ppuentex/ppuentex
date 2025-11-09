@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Patricia!
 
-🚀 **Data Scientist | Applied Math PhD | Hydrology & Geospatial Analytics** 
+🚀 **Environmental Data Scientist | Applied Math PhD | Hydrology & Geospatial Analytics** 
 
 😄 Pronouns: She/Her/Ella
 
