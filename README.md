@@ -8,16 +8,16 @@
 
 Welcome to my GitHub! 
 
-**I recently graduated with my PhD in Applied Mathematics from the University of Arizona, where my research focused on drought trends in the Colorado River Basin using nonlinear methods and geospatial statistics.** 🌎➕🛰️📉
+**I am an Environmental Data Scientist at Dudek in the Hydrogeology & Hazardous Waste practice. I collaborate with project leaders and clients to provide data-driven solutions to environmental challenges.** 🌎➕🛰️📉
 
 ### 🎯 What I Love 
-I enjoy solving complex problems — whether it’s optimizing data workflows, making sense of messy datasets, or building reproducible workflows. I’m excited to apply my background in data science, applied math, and hydrology to tackle data-driven environmental challenges. 
+I enjoy solving complex problems — whether it’s optimizing data workflows, making sense of messy datasets, or building reproducible workflows.   
 
 ### 🌟Fun Facts
 - 📔 Notion Fanatic - I love designing productivity systems for note-taking and goal tracking.
 - ☕ Coffee Enthusiast - I once took a "Crop to Cup" course to learn how coffee beans become a latte (my favorite!).
-- ⚽ Soccer Fan - After spending 10+ years playing, I have picked up the sport again and love watching and supporting the National Women's Soccer League (NWSL). 
-
+- ⚽🏋️ Hybrid Athlete - I play soccer on two teams, weight lift, and have joined a run club. Training soon for my first Hyrox. 
+  
 🚀 Let’s connect! Feel free to check out my projects here, or contact me on LinkedIn. 
 
 
