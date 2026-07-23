@@ -14,10 +14,9 @@ Welcome to my GitHub!
 I enjoy solving complex problems — whether it’s optimizing data workflows, making sense of messy datasets, or building reproducible workflows.   
 
 ### 🌟Fun Facts
-- 📔 Notion Fanatic - I love designing productivity systems for note-taking and goal tracking.
-- ☕ Coffee Enthusiast - I once took a "Crop to Cup" course to learn how coffee beans become a latte (my favorite!).
-- ⚽🏋️ Hybrid Athlete - I play soccer on two teams, weight lift, and have joined a run club. Training soon for my first Hyrox. 
-  
+- ⚽🏋️ Hybrid Athlete - I play soccer on two teams, weight lift, and have joined a run club. I am training soon for my first Hyrox. 
+- ☀️🌴 Volunteer - I love serving in my new community of San Diego, whether that is with G4G or Dulce Vida Rescue, whatever gets me outside - I will be there.
+
 🚀 Let’s connect! Feel free to check out my projects here, or contact me on LinkedIn. 
 
 
